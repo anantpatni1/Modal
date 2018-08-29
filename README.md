@@ -1,2 +1,2 @@
 # Modal
-A simple Modal 
+A Simple Modal 
