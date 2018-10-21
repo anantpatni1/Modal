@@ -1,2 +1,2 @@
 # Modal  
-A Simple Modal 
+A Simple Modal usin JS
